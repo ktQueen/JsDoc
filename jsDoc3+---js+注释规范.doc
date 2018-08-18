@@ -1,0 +1,613 @@
+Message-ID: <1010479584.6367.1491818004795.JavaMail.confluence@bjm6-193-106.58os.org>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_6366_1548926474.1491818004795"
+
+------=_Part_6366_1548926474.1491818004795
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>jsDoc3 ---js =E6=B3=A8=E9=87=8A=E8=A7=84=E8=8C=83</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+#main {
+    padding-bottom: 1em !important; /* The default padding of 6em is too mu=
+ch for printouts */
+}
+
+body {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: 10pt;
+    line-height: 1.2;
+}
+
+body, #full-height-container, #main, #page, #content, .has-personal-sidebar=
+ #content {
+    background: #fff    !important;
+    color: #000         !important;
+    border: 0           !important;
+    width: 100%         !important;
+    height: auto        !important;
+    min-height: auto    !important;
+    margin: 0           !important;
+    padding: 0          !important;
+    display: block      !important;
+}
+
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #000;
+}
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    page-break-after: avoid;
+}
+pre {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+#header,
+.aui-header-inner,
+#navigation,
+#sidebar,
+.sidebar,
+#personal-info-sidebar,
+.ia-fixed-sidebar,
+.page-actions,
+.navmenu,
+.ajs-menu-bar,
+.noprint,
+.inline-control-link,
+.inline-control-link a,
+a.show-labels-editor,
+.global-comment-actions,
+.comment-actions,
+.quick-comment-container,
+#addcomment {
+    display: none !important;
+}
+
+.comment .date::before {
+    content: none !important; /* remove middot for print view */
+}
+
+h1.pagetitle img {
+    height: auto;
+    width: auto;
+}
+
+.print-only {
+    display: block;
+}
+#footer {
+    position: relative !important; /* CONF-17506 Place the footer at end of=
+ the content */
+    margin: 0;
+    padding: 0;
+    background: none;
+    clear: both;
+}
+
+#poweredby {
+    border-top: none;
+    background: none;
+}
+
+#poweredby li.print-only {
+    display: list-item;
+    font-style: italic;
+}
+
+#poweredby li.noprint {
+    display:none;
+}
+
+
+/* no width controls in print */
+.wiki-content .table-wrap,
+.wiki-content p,
+.panel .codeContent,
+.panel .codeContent pre,
+.image-wrap {
+    overflow: visible !important;
+}
+
+/* TODO - should this work? */
+#children-section,
+#comments-section .comment,
+#comments-section .comment .comment-body,
+#comments-section .comment .comment-content,
+#comments-section .comment p {
+    page-break-inside: avoid;
+}
+
+#page-children a {
+    text-decoration: none;
+}
+
+/**
+ hide twixies
+
+ the specificity here is a hack because print styles
+ are getting loaded before the base styles. */
+#comments-section.pageSection .section-header,
+#comments-section.pageSection .section-title,
+#children-section.pageSection .section-header,
+#children-section.pageSection .section-title,
+.children-show-hide {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.children-show-hide.icon {
+    display: none;
+}
+
+/* personal sidebar */
+.has-personal-sidebar #content {
+    margin-right: 0px;
+}
+
+.has-personal-sidebar #content .pageSection {
+    margin-right: 0px;
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>jsDoc3 ---js =E6=B3=A8=E9=87=8A=E8=A7=84=E8=8C=83</h1>
+    <div class=3D"Section1">
+        <p>=E5=85=B3=E4=BA=8E=E6=B3=A8=E9=87=8A=E5=85=B6=E5=AE=9E=E6=98=AF=
+=E5=9B=A0=E4=BA=BA=E8=80=8C=E5=BC=82=E7=9A=84=EF=BC=8C=E4=BD=86=E6=B3=A8=E9=
+=87=8A=E7=9A=84=E7=9B=AE=E7=9A=84=E6=98=AF=E5=B0=BD=E9=87=8F=E8=AE=A9=E5=A4=
+=A7=E5=AE=B6=E9=83=BD=E7=9C=8B=E6=87=82=E3=80=82</p>
+<p>&nbsp;&nbsp;&nbsp; =E4=B8=80=E8=88=AC=E7=9A=84=E6=B3=A8=E9=87=8A=E5=BA=
+=94=E8=AF=A5=E5=8C=85=E5=90=AB=E4=BD=9C=E8=80=85 =E6=97=B6=E9=97=B4 =E5=90=
+=8D=E7=A7=B0=EF=BC=8C=E4=B8=BB=E8=A6=81=E5=8A=9F=E8=83=BD=E3=80=82</p>
+<p>&nbsp;&nbsp;&nbsp; =E5=AF=B9=E4=BA=8E=E7=B1=BB=E6=9D=A5=E8=AF=B4=EF=BC=
+=8C=E8=A6=81=E8=AF=B4=E6=98=8E=E6=9E=84=E9=80=A0=E5=99=A8=E7=9A=84=E5=85=A5=
+=E5=8F=82=E7=BB=93=E6=9E=84=EF=BC=8C=E5=AF=B9=E4=BA=8E=E6=96=B9=E6=B3=95=E6=
+=9D=A5=E8=AF=B4=EF=BC=8C=E8=A6=81=E8=AF=B4=E6=98=8E=E5=85=A5=E5=8F=82=E7=BB=
+=93=E6=9E=84=E5=92=8C=E8=BF=94=E5=9B=9E=E5=80=BC=E7=9A=84=E7=BB=93=E6=9E=84=
+=E3=80=82</p>
+<p>&nbsp;&nbsp; =E8=BF=99=E9=87=8C=E7=9A=84=E7=BB=93=E6=9E=84=E5=8F=AA=E5=
+=BE=97=E6=98=AF=E5=A6=82=E6=9E=9C=E6=98=AF=E5=8E=9F=E5=A7=8B=E7=B1=BB=E5=9E=
+=8B=E8=A6=81=E5=8D=95=E4=B8=AA=E5=88=97=E5=87=BA=E4=BA=86=EF=BC=8C=E7=B1=BB=
+=E5=9E=8B=E5=92=8C=E6=84=8F=E4=B9=89=EF=BC=8C=E5=A6=82=E6=9E=9C=E6=98=AFjso=
+n=E5=AF=B9=E8=B1=A1=EF=BC=8C=E8=A6=81=E5=B0=86=E6=AF=8F=E4=B8=80=E4=B8=AAke=
+y=E5=AF=B9=E5=BA=94=E7=9A=84=E5=80=BC=E7=B1=BB=E5=9E=8B=E3=80=82=E5=A6=82=
+=E6=9E=9C=E6=98=AF=E6=95=B0=E7=BB=84=E4=B9=9F=E8=A6=81=E8=AF=B4=E6=98=8E=E6=
+=AF=8F=E4=B8=AA=E5=85=83=E7=B4=A0=E7=9A=84=E7=B1=BB=E5=9E=8B=E5=92=8C=E8=A7=
+=84=E5=88=99</p>
+<p>=E5=AF=B9=E4=BA=8E=E5=8F=82=E6=95=B0=E5=92=8C=E8=BF=94=E5=9B=9E=E5=80=BC=
+=E6=AF=94=E8=BE=83=E5=A4=8D=E6=9D=82=E7=9A=84=E6=96=B9=E6=B3=95=E8=A6=81=E7=
+=BB=99=E5=87=BA=E6=A0=B7=E4=BE=8B=E3=80=82</p>
+<h5 id=3D"jsDoc3---js=E6=B3=A8=E9=87=8A=E8=A7=84=E8=8C=83-=E5=8E=9F=E5=88=
+=99=E4=B8=8A=EF=BC=8C=E5=AF=B9=E4=BA=8E=E6=AF=8F=E4=B8=AA=E5=8F=98=E9=87=8F=
+=E7=9A=84=E7=94=B3=E6=98=8E=E9=83=BD=E9=9C=80=E8=A6=81=E6=9C=89=E4=B8=AD=E6=
+=96=87=E6=B3=A8=E9=87=8A=EF=BC=8C">&nbsp;&nbsp; =E5=8E=9F=E5=88=99=E4=B8=8A=
+=EF=BC=8C=E5=AF=B9=E4=BA=8E=E6=AF=8F=E4=B8=AA=E5=8F=98=E9=87=8F=E7=9A=84=E7=
+=94=B3=E6=98=8E=E9=83=BD=E9=9C=80=E8=A6=81=E6=9C=89=E4=B8=AD=E6=96=87=E6=B3=
+=A8=E9=87=8A=EF=BC=8C</h5>
+<h5 id=3D"jsDoc3---js=E6=B3=A8=E9=87=8A=E8=A7=84=E8=8C=83-=E5=AF=B9=E4=BA=
+=8E=E6=AF=8F=E4=B8=AAif=E8=A6=81=E5=9C=A8=E5=89=8D=E4=B8=80=E8=A1=8C=E8=BF=
+=9B=E8=A1=8C=E6=8F=8F=E8=BF=B0=EF=BC=8C=E5=AF=B9=E4=BA=8Eelse=E8=A6=81=E5=
+=9C=A8=E8=A1=8C=E5=B0=BE=E6=B3=A8=E6=98=8E=E5=90=AB=E4=B9=89=EF=BC=8C=E5=A6=
+=82=E6=9E=9C=E5=88=A4=E6=96=AD=E5=BE=88=E5=A4=8D=E6=9D=82=EF=BC=8C=E9=82=A3=
+=E4=B9=88=E6=8A=8A=E5=88=A4=E6=96=AD=E8=AF=AD=E5=8F=A5=E5=88=A9=E7=94=A8=E6=
+=8D=A2=E8=A1=8C=E5=88=86=E7=BB=84=E4=B9=8B=E5=90=8E=EF=BC=8C=E6=A0=87=E6=98=
+=8E=E6=B3=A8=E9=87=8A">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =E5=AF=B9=E4=BA=8E=E6=AF=8F=E4=
+=B8=AAif=E8=A6=81=E5=9C=A8=E5=89=8D=E4=B8=80=E8=A1=8C=E8=BF=9B=E8=A1=8C=E6=
+=8F=8F=E8=BF=B0=EF=BC=8C=E5=AF=B9=E4=BA=8Eelse=E8=A6=81=E5=9C=A8=E8=A1=8C=
+=E5=B0=BE=E6=B3=A8=E6=98=8E=E5=90=AB=E4=B9=89=EF=BC=8C=E5=A6=82=E6=9E=9C=E5=
+=88=A4=E6=96=AD=E5=BE=88=E5=A4=8D=E6=9D=82=EF=BC=8C=E9=82=A3=E4=B9=88=E6=8A=
+=8A=E5=88=A4=E6=96=AD=E8=AF=AD=E5=8F=A5=E5=88=A9=E7=94=A8=E6=8D=A2=E8=A1=8C=
+=E5=88=86=E7=BB=84=E4=B9=8B=E5=90=8E=EF=BC=8C=E6=A0=87=E6=98=8E=E6=B3=A8=E9=
+=87=8A</h5>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"theme: Confluence; brush: js; gutter: false" style=3D"font-si=
+ze:12px;">/** =E8=BF=99=E6=98=AF=E4=B8=80=E4=B8=AA=E5=88=A4=E6=96=AD=E7=9A=
+=84=E6=B3=A8=E9=87=8A*/
+if (
+    1 =3D=3D 2  //=E7=AC=AC=E4=B8=80=E8=A1=8C=E5=88=86=E7=BB=84
+    || 3 =3D=3D 4 //=E7=AC=AC=E4=BA=8C=E8=A1=8C=E5=88=86=E7=BB=84
+    || 9 =3D=3D 9
+) {
+    alert(11)
+} else if (3 =3D=3D 3) {//=E5=88=A4=E6=96=AD=E7=9A=84=E4=B8=80=E4=B8=AA=E5=
+=88=86=E6=94=AF
+    alert(22)
+} else {//=E5=85=B6=E4=BB=96=E7=9A=84=E5=88=86=E6=94=AF
+    alert(33)
+}</pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+<h5 id=3D"jsDoc3---js=E6=B3=A8=E9=87=8A=E8=A7=84=E8=8C=83-=E5=AF=B9=E4=BA=
+=8E=E5=BE=AA=E7=8E=AF=E4=B9=9F=E4=B8=80=E6=A0=B7=E7=9A=84=EF=BC=8C=E8=A6=81=
+=E5=9C=A8=E5=BE=AA=E7=8E=AF=E5=BC=80=E5=A7=8B=E5=89=8D=E7=9A=84=E4=B8=80=E8=
+=A1=8C=E5=86=99=E4=B8=8A=E6=B3=A8=E9=87=8A=EF=BC=8C=E6=A0=87=E6=98=8E=E4=B8=
+=80=E4=B8=8B=E5=BE=AA=E7=8E=AF=E8=A6=81=E5=81=9A=E7=9A=84=E4=BA=8B=E6=83=85=
+=EF=BC=8C">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp; =E5=AF=B9=E4=BA=8E=E5=BE=AA=E7=8E=AF=E4=B9=9F=E4=
+=B8=80=E6=A0=B7=E7=9A=84=EF=BC=8C=E8=A6=81=E5=9C=A8=E5=BE=AA=E7=8E=AF=E5=BC=
+=80=E5=A7=8B=E5=89=8D=E7=9A=84=E4=B8=80=E8=A1=8C=E5=86=99=E4=B8=8A=E6=B3=A8=
+=E9=87=8A=EF=BC=8C=E6=A0=87=E6=98=8E=E4=B8=80=E4=B8=8B=E5=BE=AA=E7=8E=AF=E8=
+=A6=81=E5=81=9A=E7=9A=84=E4=BA=8B=E6=83=85=EF=BC=8C</h5>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"theme: Confluence; brush: js; gutter: false" style=3D"font-si=
+ze:12px;">/** =E8=BF=99=E6=98=AF=E4=B8=80=E4=B8=AA=E5=BE=AA=E7=8E=AF=E7=9A=
+=84=E7=9A=84=E6=B3=A8=E9=87=8A
+ =E4=BB=8E=E6=95=B0=E7=BB=84=E7=9A=84=E6=9C=80=E5=90=8E=E4=B8=80=E4=B8=AA=
+=E5=BC=80=E5=A7=8B=EF=BC=8C=E4=BB=8E=E5=90=8E=E5=BE=80=E5=89=8Dalert=E6=AF=
+=8F=E4=B8=AA=E5=85=83=E7=B4=A0
+ */
+for (var i =3D arr.length - 1; i &gt;=3D 0.i) {
+    alert(arr[i]);
+}</pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+<h5 id=3D"jsDoc3---js=E6=B3=A8=E9=87=8A=E8=A7=84=E8=8C=83-=E5=AF=B9=E4=BA=
+=8E=E7=89=B9=E6=AE=8A=E7=9A=84=E9=80=BB=E8=BE=91=E5=A4=84=E7=90=86=EF=BC=8C=
+=E8=A6=81=E6=B3=A8=E9=87=8A=E4=B8=80=E4=B8=8B=E5=8E=9F=E5=9B=A0=EF=BC=8C">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; =E5=AF=B9=E4=BA=8E=E7=89=B9=E6=AE=8A=E7=9A=84=E9=80=BB=E8=BE=
+=91=E5=A4=84=E7=90=86=EF=BC=8C=E8=A6=81=E6=B3=A8=E9=87=8A=E4=B8=80=E4=B8=8B=
+=E5=8E=9F=E5=9B=A0=EF=BC=8C</h5>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"theme: Confluence; brush: js; gutter: false" style=3D"font-si=
+ze:12px;">if (cityid =3D=3D 1) {//=E4=BA=A7=E5=93=81=E8=AF=B4 =E5=8C=97=E4=
+=BA=AC=E7=9A=84=E8=A6=81=E6=9C=89=E7=89=B9=E6=AE=8A=E5=A4=84=E7=90=86
+}</pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+<h5 id=3D"jsDoc3---js=E6=B3=A8=E9=87=8A=E8=A7=84=E8=8C=83-=E5=AF=B9=E4=BA=
+=8E=E4=B8=8D=E5=8F=AF=E5=88=86=E5=89=B2=E7=9A=84=E4=B8=80=E6=AE=B5=E9=80=BB=
+=E8=BE=91=EF=BC=8C=E8=A6=81=E5=9C=A8=E5=BC=80=E5=A7=8B=E5=92=8C=E7=BB=93=E6=
+=9D=9F=E7=9A=84=E5=9C=B0=E6=96=B9=E6=B3=A8=E9=87=8A=E4=B8=80=E4=B8=8B=EF=BC=
+=8C">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; =E5=AF=B9=E4=BA=8E=E4=B8=8D=E5=8F=AF=E5=88=86=E5=89=B2=E7=9A=
+=84=E4=B8=80=E6=AE=B5=E9=80=BB=E8=BE=91=EF=BC=8C=E8=A6=81=E5=9C=A8=E5=BC=80=
+=E5=A7=8B=E5=92=8C=E7=BB=93=E6=9D=9F=E7=9A=84=E5=9C=B0=E6=96=B9=E6=B3=A8=E9=
+=87=8A=E4=B8=80=E4=B8=8B=EF=BC=8C</h5>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"theme: Confluence; brush: js; gutter: false" style=3D"font-si=
+ze:12px;">/** =E8=BF=99=E9=87=8C=E5=BC=80=E5=A7=8B=E8=B0=83=E6=8D=A2 a b=E7=
+=9A=84=E5=80=BC            =E5=BC=80=E5=A7=8B*/
+var c =3D a;
+a =3D b;
+b =3D c;
+/** =E8=B0=83=E6=8D=A2 =E7=BB=93=E6=9D=9F                            =E7=BB=
+=93=E6=9D=9F*/</pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+<h5 id=3D"jsDoc3---js=E6=B3=A8=E9=87=8A=E8=A7=84=E8=8C=83-=E5=AF=B9=E4=BA=
+=8E=E6=AF=94=E8=BE=83=E5=A4=A7=E7=9A=84=E5=8F=98=E6=9B=B4=E8=A6=81=E6=9C=89=
+=E5=93=8D=E5=BA=94=E7=9A=84=E6=B3=A8=E9=87=8A=EF=BC=8C=E6=A0=87=E6=B3=A8=E5=
+=8F=98=E6=9B=B4=E4=BA=BA=EF=BC=8C=E5=8F=98=E6=9B=B4=E6=97=B6=E9=97=B4=EF=BC=
+=8C=E5=8F=98=E6=9B=B4=E7=9A=84=E5=8A=9F=E8=83=BD=E6=8F=8F=E8=BF=B0=E3=80=82=
+">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp; =E5=AF=B9=E4=BA=8E=E6=AF=94=E8=BE=83=E5=A4=A7=E7=9A=84=E5=
+=8F=98=E6=9B=B4=E8=A6=81=E6=9C=89=E5=93=8D=E5=BA=94=E7=9A=84=E6=B3=A8=E9=87=
+=8A=EF=BC=8C=E6=A0=87=E6=B3=A8=E5=8F=98=E6=9B=B4=E4=BA=BA=EF=BC=8C=E5=8F=98=
+=E6=9B=B4=E6=97=B6=E9=97=B4=EF=BC=8C=E5=8F=98=E6=9B=B4=E7=9A=84=E5=8A=9F=E8=
+=83=BD=E6=8F=8F=E8=BF=B0=E3=80=82</h5>
+<h2 id=3D"jsDoc3---js=E6=B3=A8=E9=87=8A=E8=A7=84=E8=8C=83-=E4=B8=80=E4=B8=
+=AA=E5=A4=A7=E6=A6=82=E7=9A=84=E6=B3=A8=E9=87=8A=E4=BB=A3=E7=A0=81">=E4=B8=
+=80=E4=B8=AA=E5=A4=A7=E6=A6=82=E7=9A=84=E6=B3=A8=E9=87=8A=E4=BB=A3=E7=A0=81=
+</h2>
+<hr />
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"theme: Confluence; brush: js; gutter: false" style=3D"font-si=
+ze:12px;">/**
+ @name list_youpinlunbo.js
+ @author =E6=96=87=E5=88=80=E7=AC=94=E5=89=91=E7=94=9F
+ @description =E8=BF=99=E6=98=AF=E4=B8=80=E4=B8=AA=E4=BC=98=E5=93=81=E5=A4=
+=A9=E7=AA=97=E8=BD=AE=E6=92=AD=E7=9A=84=E7=B1=BB
+ @date 2016-05-21
+ @param {string} youpinConstr -=E4=BC=98=E5=93=81=E7=9A=84=E5=AE=B9=E5=99=
+=A8id
+ */
+
+function YoupinWin(youpinConstr) {
+    var self =3D this;//=E6=A0=87=E8=AE=B0=E5=90=84=E4=B8=AA=E5=8F=98=E9=87=
+=8F=E7=9A=84=E5=90=AB=E4=B9=89=EF=BC=8C=E6=AF=94=E5=A6=82=E8=BF=99=E4=B8=80=
+=E8=A1=8C=E6=98=AF =E7=BB=99this=E4=B8=80=E4=B8=AA=E5=88=AB=E5=90=8D
+    this.contain =3D $(&quot;#&quot; + youpinConstr);//=E4=B8=BA=E5=AF=B9=
+=E8=B1=A1=E5=AE=9A=E4=B9=89=E5=AE=B9=E5=99=A8dom
+    this.leftBtn =3D this.contain.find(&quot;.leftbar&quot;);//=E5=AE=9A=E4=
+=B9=89=E5=B7=A6=E7=BF=BB=E6=8C=89=E9=92=AE
+    this.rightBtn =3D this.contain.find(&quot;.rightbar&quot;);//=E5=AE=9A=
+=E4=B9=89=E5=8F=88=E7=BF=BB=E6=8C=89=E9=92=AE
+    this.curPoint =3D 0;
+    this.startPoint =3D 0;
+    this.endPoint;
+    self.aimPoint =3D 0;
+
+    this.shoujiListWin =3D this.contain.find(&quot;.showwin&quot;);
+    this.shoujiListCon =3D this.contain.find(&quot;.showwin ul&quot;);
+    this.shoujiList =3D this.contain.find(&quot;.showwin li&quot;);
+    /**
+     @name init
+     @todo =E8=BF=99=E6=98=AF=E4=B8=80=E4=B8=AA=E5=88=9D=E5=A7=8B=E5=8C=96=
+=E5=8A=A8=E4=BD=9C=EF=BC=8C=E6=B2=A1=E6=9C=89=E8=BF=94=E5=9B=9E=E5=80=BC=EF=
+=BC=8C=E6=B2=A1=E6=9C=89=E5=8F=82=E6=95=B0=E5=88=9D=E5=A7=8B=E5=8C=96=E4=B8=
+=80=E4=B8=8B=E5=86=85=E5=AE=B9
+     */
+    this.init =3D function () {
+        //=E5=88=9D=E5=A7=8B=E5=8C=96 ul=E7=9A=84=E5=AE=BD=E5=BA=A6
+        var conWidth =3D 0;
+        //=E8=BF=99=E4=B8=AA=E5=BE=AA=E7=8E=AF=E6=98=AF=E7=94=A8=E6=9D=A5=
+=E8=AE=A1=E7=AE=97=E6=89=80=E6=9C=89=E5=AD=90=E5=85=83=E7=B4=A0=E7=9A=84=E6=
+=80=BB=E5=AE=BD=E5=BA=A6
+        for (var i =3D 0; i &lt; this.shoujiList.length; i++) {
+            conWidth +=3D $(this.shoujiList[i]).width();
+        }
+        this.shoujiListCon.width(conWidth + 8);//=E8=BF=99=E9=87=8C+8=E6=98=
+=AF=E7=BB=99=E4=B8=80=E4=B8=AA=E4=BD=99=E9=87=8F
+        this.endPoint =3D this.shoujiListWin.width() - this.shoujiListCon.w=
+idth();
+        //=E7=BB=91=E5=AE=9A =E7=82=B9=E5=87=BB=E7=9A=84=E6=96=B9=E6=B3=95
+        this.contain.click(function (evt) {
+            var target =3D $(evt.target);
+            if (target.hasClass(&quot;leftbar&quot;) || target.parents(&quo=
+t;.leftbar&quot;).length &gt; 0) {//=E5=A6=82=E6=9E=9C=E5=B7=A6=E7=BF=BB=E6=
+=8C=89=E9=92=AE=E8=A2=AB=E7=82=B9=E5=87=BB
+                self.scrollTo(self.endPoint);
+            } else if (target.hasClass(&quot;rightbar&quot;) || target.pare=
+nts(&quot;.rightbar&quot;).length &gt; 0) {//=E5=A6=82=E6=9E=9C =E5=8F=B3=
+=E7=BF=BB=E6=8C=89=E9=92=AE=E8=A2=AB=E7=82=B9=E5=87=BB
+                self.scrollTo(self.startPoint);
+            }
+        }).mouseover(function (evt) {//=E9=BC=A0=E6=A0=87=E7=A7=BB=E5=85=A5=
+=EF=BC=8C=E5=B7=A6=E5=8F=B3=E6=8C=89=E9=92=AE=E5=8F=98=E8=89=B2
+            var target =3D $(evt.target);
+            if (target.hasClass(&quot;leftbar&quot;) || target.parents(&quo=
+t;.leftbar&quot;).length &gt; 0) {//=E9=BC=A0=E6=A0=87=E7=A7=BB=E5=85=A5=E5=
+=B7=A6=E7=BF=BB=E6=8C=89=E9=92=AE
+                if (self.curPoint !=3D self.endPoint) {//=E5=A6=82=E6=9E=9C=
+=E4=B8=8D=E5=9C=A8=E6=9C=80=E5=B7=A6=E8=BE=B9
+                    self.leftBtn.addClass(&quot;hover&quot;);//=E5=B7=A6=E7=
+=BF=BB=E6=8C=89=E9=92=AE=E5=8F=98=E8=89=B2
+                }
+            } else if (target.hasClass(&quot;rightbar&quot;) || target.pare=
+nts(&quot;.rightbar&quot;).length &gt; 0) {//=E9=BC=A0=E6=A0=87=E7=A7=BB=E5=
+=85=A5=E5=8F=B3=E7=BF=BB=E6=8C=89=E9=92=AE
+                if (self.curPoint !=3D self.startPoint) {//=E5=A6=82=E6=9E=
+=9C=E4=B8=8D=E5=9C=A8=E6=9C=80=E5=8F=B3=E8=BE=B9
+                    self.rightBtn.addClass(&quot;hover&quot;);//=E5=8F=B3=
+=E7=BF=BB=E6=8C=89=E9=92=AE=E5=8F=98=E8=89=B2
+                }
+            }
+        }).mouseout(function (evt) {//=E9=BC=A0=E6=A0=87=E7=A7=BB=E5=87=BA=
+=E6=81=A2=E5=A4=8D=E5=8E=9F=E8=A3=85
+            var target =3D $(evt.target);
+            if (target.hasClass(&quot;leftbar&quot;)) {
+                self.leftBtn.removeClass(&quot;hover&quot;);
+            } else if (target.hasClass(&quot;rightbar&quot;)) {
+                self.rightBtn.removeClass(&quot;hover&quot;);
+            }
+        }).mouseenter(function (evt) {//=E9=BC=A0=E6=A0=87=E7=A7=BB=E5=85=
+=A5=E6=9A=82=E5=81=9C=E6=BB=9A=E5=8A=A8
+            clearTimeout(self.automoving);
+            clearTimeout(self.moving);
+        }).mouseleave(function (evt) {//=E9=BC=A0=E6=A0=87=E7=A7=BB=E5=87=
+=BA=EF=BC=8C=E5=BC=80=E5=A7=8B=E8=87=AA=E5=8A=A8=E6=BB=9A=E5=8A=A8
+            self.autoScroll();
+        });
+        self.autoScroll();
+    };
+    /**
+     @name scrollTo
+     @todo =E5=B0=86=E5=85=83=E7=B4=A0=E7=A7=BB=E5=8A=A8=E5=88=B0aimPoint
+     @param {number} aimPoint -=E7=A7=BB=E5=8A=A8=E5=88=B0=E7=9A=84=E7=9B=
+=AE=E6=A0=87=E7=82=B9
+     */
+    this.scrollTo =3D function (aimPoint) {
+        self.aimPoint =3D aimPoint;
+        if (aimPoint !=3D self.curPoint) {
+            clearTimeout(self.moving);
+            self.moving =3D setTimeout(function () {//=E8=BF=99=E9=87=8C=E5=
+=BC=80=E5=A7=8B=E7=A7=BB=E5=8A=A8=E7=9A=84=E5=8A=A8=E7=94=BB=EF=BC=8C=E6=AF=
+=8F80=E6=AF=AB=E7=A7=92=E7=A7=BB=E5=8A=A8=E4=B8=80=E6=AC=A1
+                var step =3D aimPoint - self.curPoint;
+                //=E8=BF=99=E4=B8=AA=E5=88=A4=E6=96=AD=E6=98=AF=E4=B8=80=E4=
+=B8=AA=E7=AE=80=E5=8D=95=E9=80=9F=E5=BA=A6=E7=AE=97=E6=B3=95=EF=BC=8C=E7=9B=
+=AE=E6=A0=87=E7=82=B9=E7=A6=BB=E5=BC=80=E5=BD=93=E5=89=8D=E7=82=B9=E8=B6=85=
+=E8=BF=8760px=EF=BC=8C=E6=AF=8F=E6=AC=A1=E7=A7=BB=E5=8A=A825px=EF=BC=8C=E4=
+=BD=8E=E4=BA=8E60px=EF=BC=8C=E6=AF=8F=E6=AC=A1=E7=A7=BB=E5=8A=A81/4 =E4=BD=
+=8E=E4=BA=8E2px=E7=9B=B4=E6=8E=A5=E7=A7=BB=E5=8A=A8=E5=88=B0=E4=BD=8D
+                if (Math.abs(step) &gt; 2) {
+                    if (Math.abs(step) &gt; 60) {
+                        if (step &gt; 0) {
+                            self.curPoint =3D self.curPoint + 25;
+
+                        } else {
+                            self.curPoint =3D self.curPoint - 25;
+
+                        }
+                    } else {
+                        self.curPoint =3D self.curPoint + step / 4;
+                    }
+
+                } else {
+                    self.curPoint =3D self.curPoint + step;
+                }
+                self.shoujiListCon.css({&quot;left&quot;: self.curPoint + &=
+quot;px&quot;})
+                if (aimPoint !=3D self.curPoint) {//=E5=A6=82=E6=9E=9C
+                    self.scrollTo(aimPoint);
+                }
+            },80)
+        }
+    };
+    /**
+     @name autoScroll
+     @todo =E8=87=AA=E5=8A=A8=E6=BB=9A=E5=8A=A8
+     */
+    this.autoScroll =3D function () {
+        clearTimeout(self.automoving);
+        self.automoving =3D setTimeout(function () {
+            if (self.curPoint !=3D self.startPoint) {
+                self.scrollTo(self.startPoint);
+            } else {
+                self.scrollTo(self.endPoint);
+            }
+            self.autoScroll();
+        },6000);
+
+
+    }
+}</pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+<pre>&nbsp;</pre>
+<hr />
+<p>=E4=BD=86=E6=98=AF=E5=9C=A8=E5=AE=9E=E9=99=85=E7=9A=84=E5=B7=A5=E4=BD=9C=
+=E4=B8=AD=EF=BC=8C=E5=8F=82=E6=95=B0=E5=92=8C=E8=BF=94=E5=9B=9E=E5=80=BC=E5=
+=BE=88=E6=9C=89=E5=8F=AF=E8=83=BD=E4=B8=8D=E6=98=AF=E5=8E=9F=E5=A7=8B=E7=B1=
+=BB=E5=9E=8B=E7=9A=84</p>
+<p>=E6=AF=94=E5=A6=82=E4=B8=8B=E9=9D=A2 =E6=98=AF=E4=B8=80=E4=B8=AA=E6=A0=
+=B7=E4=BE=8B=EF=BC=8C=E8=BF=94=E5=9B=9E=E5=80=BC=E9=83=A8=E5=88=86=E4=B8=8D=
+=E6=98=AF=E6=A0=87=E5=87=86=E7=9A=84jsdoc=E8=A7=84=E5=88=99=E3=80=82</p>
+<hr />
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"theme: Confluence; brush: js; gutter: false" style=3D"font-si=
+ze:12px;">/** @name area @author =E6=96=87=E5=88=80=E7=AC=94=E5=89=91=E7=94=
+=9F
+ @description =E8=BF=99=E6=98=AF=E4=B8=80=E4=B8=AA=E9=9D=A2=E7=A7=AF =E4=BD=
+=93=E7=A7=AF=E8=AE=A1=E7=AE=97=E7=B1=BB
+ @date 2016-05-21
+ @param {number} argus -=E9=AB=98=E5=AE=BD=E5=AF=B9=E8=B1=A1
+ @param {number} argus.x -=E5=AE=BD=E5=BA=A6
+ @param {number} argus.y -=E9=AB=98=E5=BA=A6
+ @example
+ var js=3Dnew JiSuan({&quot;x&quot;:3,&quot;y&quot;:4});
+ //returns 12
+ js.getArea();
+ //returns {&quot;x&quot;:3,&quot;y&quot;:4}
+ js.getPosition();
+ */
+function JiSuan(argus) {
+    this.x =3D argus.x;
+    this.y =3D argus.y;
+    /** @name getArea
+     @returns {number}  -=E9=9D=A2=E7=A7=AF
+     */
+    this.getArea =3D function () {
+        return this.x * this.y
+    }
+    /** @name getPosition
+     @returns  {
+            {number}x - =E5=AE=BD=E5=BA=A6
+            {number}y - =E9=AB=98=E5=BA=A6=E5=BA=A6
+           }
+     */
+    this.getArea =3D function () {
+        return {&quot;x&quot;: this.x,&quot;y&quot;: this.y}
+    }
+}</pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<h4 id=3D"jsDoc3---js=E6=B3=A8=E9=87=8A=E8=A7=84=E8=8C=83-=E4=BB=A5=E4=B8=
+=8B=E6=98=AF=E6=A0=87=E5=87=86=E7=9A=84jsdoc3=E8=A7=84=E8=8C=83">=E4=BB=A5=
+=E4=B8=8B=E6=98=AF=E6=A0=87=E5=87=86=E7=9A=84jsdoc3 =E8=A7=84=E8=8C=83</h4>
+<h4 id=3D"jsDoc3---js=E6=B3=A8=E9=87=8A=E8=A7=84=E8=8C=83-http://www.css88.=
+com/doc/jsdoc/index.html"><a href=3D"http://www.css88.com/doc/jsdoc/index.h=
+tml" class=3D"external-link" rel=3D"nofollow">http://www.css88.com/doc/jsdo=
+c/index.html</a></h4>
+<p>&nbsp;</p>
+<h3 id=3D"jsDoc3---js=E6=B3=A8=E9=87=8A=E8=A7=84=E8=8C=83-=E9=9C=80=E8=A6=
+=81=E6=B3=A8=E6=84=8F=E7=9A=84=E4=B8=80=E7=82=B9=EF=BC=8Cjsdoc=E8=A7=84=E8=
+=8C=83=E5=85=B6=E5=AE=9E=E5=B9=B6=E4=B8=8D=E5=A4=AA=E5=8F=8B=E5=A5=BD=E3=80=
+=82=E5=9B=A0=E6=AD=A4=E5=BB=BA=E8=AE=AE=E5=A4=A7=E5=AE=B6=E5=85=88=E6=8C=89=
+=E7=85=A7=E6=9C=AC=E6=96=87=E7=9A=84=E5=86=85=E5=AE=B9=E5=86=99=E4=B8=80=E6=
+=AE=B5=E6=97=B6=E9=97=B4=EF=BC=8C=E9=80=82=E5=BA=94=E4=B8=80=E4=B8=8B=E3=80=
+=82=E6=9C=89=E4=B8=80=E4=B8=AA=E5=A4=A7=E5=AE=B6=E8=83=BD=E6=8E=A5=E5=8F=97=
+=E7=9A=84=E8=A7=84=E8=8C=83=E3=80=82=E8=87=B3=E4=BA=8Eapi=E7=94=9F=E6=88=90=
+=E5=B7=A5=E5=85=B7=EF=BC=8C=E6=88=91=E4=BB=AC=E5=8F=AF=E4=BB=A5=E4=BF=AE=E6=
+=94=B9=E5=AE=98=E6=96=B9=E7=9A=84node=E7=94=9F=E6=88=90=E5=B7=A5=E5=85=B7=
+=E6=9D=A5=E9=80=82=E5=BA=94=E6=88=91=E4=BB=AC=E7=9A=84=E8=A7=84=E8=8C=83=E3=
+=80=82">=E9=9C=80=E8=A6=81=E6=B3=A8=E6=84=8F=E7=9A=84=E4=B8=80=E7=82=B9=EF=
+=BC=8Cjsdoc=E8=A7=84=E8=8C=83=E5=85=B6=E5=AE=9E=E5=B9=B6=E4=B8=8D=E5=A4=AA=
+=E5=8F=8B=E5=A5=BD=E3=80=82=E5=9B=A0=E6=AD=A4=E5=BB=BA=E8=AE=AE=E5=A4=A7=E5=
+=AE=B6=E5=85=88=E6=8C=89=E7=85=A7=E6=9C=AC=E6=96=87=E7=9A=84=E5=86=85=E5=AE=
+=B9=E5=86=99=E4=B8=80=E6=AE=B5=E6=97=B6=E9=97=B4=EF=BC=8C=E9=80=82=E5=BA=94=
+=E4=B8=80=E4=B8=8B=E3=80=82=E6=9C=89=E4=B8=80=E4=B8=AA=E5=A4=A7=E5=AE=B6=E8=
+=83=BD=E6=8E=A5=E5=8F=97=E7=9A=84=E8=A7=84=E8=8C=83=E3=80=82=E8=87=B3=E4=BA=
+=8Eapi=E7=94=9F=E6=88=90=E5=B7=A5=E5=85=B7=EF=BC=8C=E6=88=91=E4=BB=AC=E5=8F=
+=AF=E4=BB=A5=E4=BF=AE=E6=94=B9=E5=AE=98=E6=96=B9=E7=9A=84node=E7=94=9F=E6=
+=88=90=E5=B7=A5=E5=85=B7=E6=9D=A5=E9=80=82=E5=BA=94=E6=88=91=E4=BB=AC=E7=9A=
+=84=E8=A7=84=E8=8C=83=E3=80=82</h3>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+    </div>
+</body>
+</html>
+------=_Part_6366_1548926474.1491818004795--
